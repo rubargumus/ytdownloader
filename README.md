@@ -2,8 +2,10 @@
 **If you guys want to download videos from youtube this tool is for you**
 ## Using
 **1) Go to open exe**
+
 **2) Paste YouTube url**
-**Click the "indir" button and finish**
+
+**3) Click the "indir" button and finish**
 
 ***
 
